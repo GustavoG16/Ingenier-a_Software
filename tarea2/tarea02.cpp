@@ -89,7 +89,6 @@ void CalculoSO (string M[][2])
 		result[11] = result[11].erase(0, 1);
 		result[11] = result[11].erase(result[11].size() - 1);
 		cout << result[11] << endl;
-		result.found();
 
 		cout << result[0] << endl;
 
